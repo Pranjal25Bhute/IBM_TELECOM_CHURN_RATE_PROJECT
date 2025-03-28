@@ -86,6 +86,18 @@ The goal of this project is to:
 
 ## 📂 Source
 
+## Key Insights
+
+Customers with month-to-month contracts have the highest churn rate.
+
+Customers using electronic check payment churn more frequently.
+
+Tenure is negatively correlated with churn—longer tenure customers are less likely to churn.
+
+Customers with tech support churn less.
+
+Paperless billing customers pay higher monthly charges but churn more often. Provide recommendations for reducing churn.
+
 Dataset: [IBM Sample Data Sets](https://www.ibm.com/communities/analytics/watson-analytics-blog/)
 
 ---
