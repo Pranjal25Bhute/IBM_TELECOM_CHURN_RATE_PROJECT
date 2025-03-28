@@ -1,6 +1,9 @@
 
 # 📊 IBM Telecom Churn Rate Prediction Project
 
+![Screenshot 2025-03-28 162157](https://github.com/user-attachments/assets/eb5a7574-fe92-4311-97a0-93cff50a3282)
+
+
 Predict customer churn based on service usage, account details, and demographics using machine learning techniques.
 
 ---
